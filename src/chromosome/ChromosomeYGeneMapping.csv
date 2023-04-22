@@ -1,0 +1,590 @@
+"NCBI RefSeq Annotation GCF_000001405.40-RS_2023_03"
+Accession,Start,Stop,Gene symbol,Strand,NCBI Gene ID,Name
+NC_000024.10,275294,276997,LOC124905300,minus,124905300,vegetative cell wall protein gp1-like
+NC_000024.10,276356,303356,PLCXD1,plus,55344,phosphatidylinositol specific phospholipase C X domain containing 1
+NC_000024.10,304759,318796,GTPBP6,minus,8225,GTP binding protein 6 (putative)
+NC_000024.10,319145,321332,LINC00685,plus,283981,long intergenic non-protein coding RNA 685
+NC_000024.10,333933,386907,PPP2R3B,minus,28227,protein phosphatase 2 regulatory subunit B''beta
+NC_000024.10,430021,472756,LOC102724521,plus,102724521,uncharacterized LOC102724521
+NC_000024.10,523741,524101,FABP5P13,minus,106480712,fatty acid binding protein 5 pseudogene 13
+NC_000024.10,545236,545352,KRT18P53,minus,106478925,keratin 18 pseudogene 53
+NC_000024.10,624344,659411,SHOX,plus,6473,short stature homeobox
+NC_000024.10,1009720,1010100,RPL14P5,minus,442442,ribosomal protein L14 pseudogene 5
+NC_000024.10,1127409,1128785,LOC100418703,plus,100418703,repetin pseudogene
+NC_000024.10,1172583,1175114,LOC652608,plus,652608,60S ribosomal protein L6-like
+NC_000024.10,1190490,1212649,CRLF2,minus,64109,cytokine receptor like factor 2
+NC_000024.10,1268814,1325218,CSF2RA,plus,1438,colony stimulating factor 2 receptor subunit alpha
+NC_000024.10,1293546,1293998,LOC124905238,minus,124905238,uncharacterized LOC124905238
+NC_000024.10,1293918,1293992,MIR3690,plus,100500894,microRNA 3690
+NC_000024.10,1300256,1300375,RNA5SP498,minus,106480770,"RNA, 5S ribosomal pseudogene 498"
+NC_000024.10,1336785,1382689,IL3RA,plus,3563,interleukin 3 receptor subunit alpha
+NC_000024.10,1336972,1378476,LOC101928032,minus,101928032,uncharacterized LOC101928032
+NC_000024.10,1386152,1392113,SLC25A6,minus,293,solute carrier family 25 member 6
+NC_000024.10,1391993,1396881,LOC124900597,plus,124900597,serine/arginine repetitive matrix protein 1-like
+NC_000024.10,1397025,1399412,LINC00106,plus,751580,long intergenic non-protein coding RNA 106
+NC_000024.10,1400531,1415421,ASMTL-AS1,plus,80161,ASMTL antisense RNA 1
+NC_000024.10,1403139,1453756,ASMTL,minus,8623,acetylserotonin O-methyltransferase like
+NC_000024.10,1462581,1537185,P2RY8,minus,286530,P2Y receptor family member 8
+NC_000024.10,1591604,1602520,AKAP17A,plus,8227,A-kinase anchoring protein 17A
+NC_000024.10,1615059,1643081,ASMT,plus,438,acetylserotonin O-methyltransferase
+NC_000024.10,1732419,1755984,LINC02968,plus,105373105,long intergenic non-protein coding RNA 2968
+NC_000024.10,1771053,1784602,LOC105379413,plus,105379413,uncharacterized LOC105379413
+NC_000024.10,1879515,1885827,LOC107985677,minus,107985677,uncharacterized LOC107985677
+NC_000024.10,2219506,2500976,DHRSX,minus,207063,dehydrogenase/reductase X-linked
+NC_000024.10,2320639,2337671,LOC124905239,plus,124905239,uncharacterized LOC124905239
+NC_000024.10,2486435,2500976,ZBED1,minus,9189,zinc finger BED-type containing 1
+NC_000024.10,2566029,2609240,LOC101928092,minus,101928092,uncharacterized LOC101928092
+NC_000024.10,2609191,2609254,MIR6089,plus,102464837,microRNA 6089
+NC_000024.10,2609265,2657229,CD99P1,plus,401577,CD99 molecule pseudogene 1
+NC_000024.10,2612991,2615347,LINC00102,minus,100359394,long intergenic non-protein coding RNA 102
+NC_000024.10,2691295,2741309,CD99,plus,4267,CD99 molecule (Xg blood group)
+NC_000024.10,2752296,2774996,XGY2,plus,100132596,"XG pseudogene, Y-linked 2"
+NC_000024.10,2784749,2784853,RNU6-1334P,plus,106480148,"RNA, U6 small nuclear 1334, pseudogene"
+NC_000024.10,2786855,2787682,SRY,minus,6736,sex determining region Y
+NC_000024.10,2789806,2790439,RNASEH2CP1,plus,386608,ribonuclease H2 subunit C pseudogene 1
+NC_000024.10,2827982,2828218,TOMM22P2,plus,100499417,TOMM22 pseudogene 2
+NC_000024.10,2841602,2867268,RPS4Y1,plus,6192,ribosomal protein S4 Y-linked 1
+NC_000024.10,2881560,2883720,HSFY3P,minus,442479,"heat shock transcription factor Y-linked 3, pseudogene"
+NC_000024.10,2929407,2930370,NAP1L1P2,minus,100128894,nucleosome assembly protein 1 like 1 pseudogene 2
+NC_000024.10,2935381,2982506,ZFY,plus,7544,zinc finger protein Y-linked
+NC_000024.10,2966819,3002626,ZFY-AS1,minus,107987337,ZFY antisense RNA 1
+NC_000024.10,2994902,2995275,EEF1A1P41,minus,100874491,eukaryotic translation elongation factor 1 alpha 1 pseudogene 41
+NC_000024.10,3002996,3102272,LINC00278,plus,100873962,long intergenic non-protein coding RNA 278
+NC_000024.10,3293782,3294806,AGPAT5P1,plus,646231,1-acylglycerol-3-phosphate O-acyltransferase 5 pseudogene 1
+NC_000024.10,3549809,3550589,PRRC2CP1,plus,360018,proline rich coiled-coil 2C pseudogene 1
+NC_000024.10,3579067,3580041,TGIF2LY,plus,90655,TGFB induced factor homeobox 2 like Y-linked
+NC_000024.10,3682587,3685142,USP12PY,plus,359799,USP12 pseudogene Y-linked
+NC_000024.10,3778537,3779542,RNF19BPY,minus,100419722,ring finger protein 19B pseudogene Y-linked
+NC_000024.10,3800651,3835558,LOC105377227,plus,105377227,uncharacterized LOC105377227
+NC_000024.10,3851040,3853066,LOC100533723,minus,100533723,HERV-FRD provirus ancestral Env polyprotein pseudogene
+NC_000024.10,3864609,3866758,UBE2V1P3,minus,359798,UBE2V1 pseudogene 3
+NC_000024.10,4174985,4175090,RNU6-303P,minus,106479702,"RNA, U6 small nuclear 303, pseudogene"
+NC_000024.10,4606120,4606228,MIR9985,plus,113218498,microRNA 9985
+NC_000024.10,4801010,4802934,SERBP1P2,minus,359996,SERPINE1 mRNA binding protein 1 pseudogene 2
+NC_000024.10,5000296,5742228,PCDH11Y,plus,83259,protocadherin 11 Y-linked
+NC_000024.10,5019076,5019263,RNU2-57P,plus,106480222,"RNA, U2 small nuclear 57, pseudogene"
+NC_000024.10,5206365,5208078,VDAC1P6,minus,359800,voltage dependent anion channel 1 pseudogene 6
+NC_000024.10,5337603,5338980,EIF4A1P2,minus,359792,eukaryotic translation initiation factor 4A1 pseudogene 2
+NC_000024.10,5573089,5574488,KRT18P10,plus,360019,keratin 18 pseudogene 10
+NC_000024.10,5634484,5634655,SNX3P1Y,minus,100873885,sorting nexin 3 pseudogene 1 Y-linked
+NC_000024.10,5793257,5793779,RPL26P37,minus,441533,ribosomal protein L26 pseudogene 37
+NC_000024.10,5887504,5888740,TUSC2P1,plus,359794,TUSC2 pseudogene 1
+NC_000024.10,6158784,6159347,DLGAP5P1,plus,360014,DLGAP5 pseudogene 1
+NC_000024.10,6242446,6243610,TTTY23B,minus,100101121,"testis-specific transcript, Y-linked 23B"
+NC_000024.10,6246223,6249018,TSPY2,plus,64591,testis specific protein Y-linked 2
+NC_000024.10,6258333,6263935,FAM197Y9,minus,100132932,family with sequence similarity 197 Y-linked member 9
+NC_000024.10,6266547,6269275,TSPY11P,plus,347584,"testis specific protein Y-linked 11, pseudogene"
+NC_000024.10,6304599,6305117,TSPY19P,minus,100132504,"testis specific protein Y-linked 19, pseudogene"
+NC_000024.10,6328189,6343584,RBMY2GP,plus,378952,"RNA binding motif protein Y-linked family 2 member G, pseudogene"
+NC_000024.10,6357219,6361413,LINC00280,minus,100873964,long intergenic non-protein coding RNA 280
+NC_000024.10,6366510,6369921,LOC107987353,minus,107987353,uncharacterized LOC107987353
+NC_000024.10,6390401,6411564,TTTY1B,plus,100101116,"testis-specific transcript, Y-linked 1B"
+NC_000024.10,6406244,6428444,TTTY2B,minus,100101117,"testis-specific transcript, Y-linked 2B"
+NC_000024.10,6443434,6447077,TTTY21B,plus,100101115,"testis-specific transcript, Y-linked 21B"
+NC_000024.10,6449468,6457906,TTTY7,plus,246122,"testis-specific transcript, Y-linked 7"
+NC_000024.10,6471031,6473630,TTTY8B,minus,100101118,"testis-specific transcript, Y-linked 8B"
+NC_000024.10,6520418,6520929,TSPY17P,plus,100132124,"testis specific protein Y-linked 17, pseudogene"
+NC_000024.10,6718963,6719224,SRIP3,minus,100861435,sorcin pseudogene 3
+NC_000024.10,6837699,6838252,GOT2P5,plus,100422625,GOT2 pseudogene 5
+NC_000024.10,6865918,6911752,AMELY,minus,266,amelogenin Y-linked
+NC_000024.10,6901130,6901467,ATP5PFP1,plus,359997,ATP synthase peripheral stalk subunit F6 pseudogene 1
+NC_000024.10,6910697,7091683,TBL1Y,plus,90665,transducin beta like 1 Y-linked
+NC_000024.10,6950426,6950616,FAM199YP,plus,360029,"family with sequence similarity 199, Y-linked, pseudogene"
+NC_000024.10,7100398,7106505,GPR143P,minus,352896,G protein-coupled receptor 143 pseudogene
+NC_000024.10,7273972,7381547,PRKY,plus,5616,protein kinase Y-linked (pseudogene)
+NC_000024.10,7324297,7324595,RN7SKP282,minus,106480919,RN7SK pseudogene 282
+NC_000024.10,7378673,7378779,RNU6-941P,plus,107063612,"RNA, U6 small nuclear 941, pseudogene"
+NC_000024.10,7423054,7423158,RNU6-521P,minus,106481900,"RNA, U6 small nuclear 521, pseudogene"
+NC_000024.10,7458614,7520591,LOC107987338,plus,107987338,uncharacterized LOC107987338
+NC_000024.10,7660169,7660747,TTTY26P,minus,100287818,"testis-specific transcript, Y-linked 26, pseudogene"
+NC_000024.10,7671470,7678012,RBMY2HP,minus,378953,"RNA binding motif protein Y-linked family 2 member H, pseudogene"
+NC_000024.10,7686801,7689593,TSPY12P,minus,377997,"testis specific protein Y-linked 12, pseudogene"
+NC_000024.10,7699357,7701247,TTTY16,minus,252948,"testis-specific transcript, Y-linked 16"
+NC_000024.10,7712978,7776710,RFTN1P1,minus,360015,"raftlin, lipid raft linker 1 pseudogene 1"
+NC_000024.10,7779467,7809870,LOC107987339,minus,107987339,uncharacterized LOC107987339
+NC_000024.10,7804015,7810683,TTTY12,plus,83867,"testis-specific transcript, Y-linked 12"
+NC_000024.10,7830815,7858758,LOC105377229,minus,105377229,uncharacterized LOC105377229
+NC_000024.10,7845483,7846463,TRIM60P1Y,minus,100420362,"tripartite motif containing 60 pseudogene 1, Y-linked"
+NC_000024.10,7853710,7854843,ZNF92P1Y,minus,100419554,"zinc finger protein 92 pseudogene 1, Y-linked"
+NC_000024.10,7905536,7907317,TRIM60P2Y,minus,100420363,"tripartite motif containing 60 pseudogene 2, Y-linked"
+NC_000024.10,7913234,7914140,ZNF736P8Y,minus,100419724,"zinc finger protein 736 pseudogene 8, Y-linked"
+NC_000024.10,7926089,7948999,BPY2DP,minus,100885797,"basic charge Y-linked 2D, pseudogene"
+NC_000024.10,7990743,7991930,ZNF736P7Y,minus,100419725,"zinc finger protein 736 pseudogene 7, Y-linked"
+NC_000024.10,8068896,8070120,ZNF736P9Y,minus,100419726,"zinc finger protein 736 pseudogene 9, Y-linked"
+NC_000024.10,8127124,8144630,RBMY2JP,plus,378955,"RNA binding motif protein Y-linked family 2 member J, pseudogene"
+NC_000024.10,8177826,8179167,FAM8A7P,minus,386725,"family with sequence similarity 8 member A7, pseudogene"
+NC_000024.10,8253772,8254266,TTTY30P,minus,100287844,"testis-specific transcript, Y-linked 30, pseudogene"
+NC_000024.10,8264166,8277195,RBMY2KP,minus,140100,"RNA binding motif protein Y-linked family 2 member K, pseudogene"
+NC_000024.10,8280198,8282209,TSPY24P,plus,100874287,"testis specific protein Y-linked 24, pseudogene"
+NC_000024.10,8350917,8352143,ZNF736P6Y,plus,100419732,"zinc finger protein 736 pseudogene 6, Y-linked"
+NC_000024.10,8363536,8363959,MTND6P1,minus,100499469,MT-ND6 pseudogene 1
+NC_000024.10,8364032,8365150,MTCYBP1,plus,100499418,MT-CYB pseudogene 1
+NC_000024.10,8371663,8372030,MTND1P1,plus,100499468,MT-ND1 pseudogene 1
+NC_000024.10,8372099,8372173,NMTRQ-TTG8-1,minus,100189448,nuclear-encoded mitochondrial tRNA-Gln (TTG) 8-1
+NC_000024.10,8372241,8372710,MTND2P3,plus,100499457,MT-ND2 pseudogene 3
+NC_000024.10,8395047,8407314,LOC105377231,plus,105377231,uncharacterized LOC105377231
+NC_000024.10,8413046,8414054,TRIM60P3Y,minus,100420364,"tripartite motif containing 60 pseudogene 3, Y-linked"
+NC_000024.10,8418851,8419923,ZNF736P10Y,minus,100419727,"zinc finger protein 736 pseudogene 10, Y-linked"
+NC_000024.10,8514161,8514556,TTTY27P,plus,100287874,"testis-specific transcript, Y-linked 27, pseudogene"
+NC_000024.10,8549057,8551268,LOC105377232,minus,105377232,uncharacterized LOC105377232
+NC_000024.10,8560741,8562228,LOC107987354,minus,107987354,uncharacterized LOC107987354
+NC_000024.10,8638294,8645129,LINC00279,plus,100873963,long intergenic non-protein coding RNA 279
+NC_000024.10,8660042,8660883,LOC107987340,plus,107987340,uncharacterized LOC107987340
+NC_000024.10,8683370,8683878,TTTY18,minus,252950,"testis-specific transcript, Y-linked 18"
+NC_000024.10,8693877,8695298,LOC105377234,minus,105377234,uncharacterized LOC105377234
+NC_000024.10,8704472,8705283,TTTY19,plus,252952,"testis-specific transcript, Y-linked 19"
+NC_000024.10,8721797,8724282,LOC105377235,minus,105377235,uncharacterized LOC105377235
+NC_000024.10,8783313,8817382,TTTY11,minus,83866,"testis-specific transcript, Y-linked 11"
+NC_000024.10,8904183,8916345,RBMY2MP,plus,140101,"RNA binding motif protein Y-linked family 2 member M, pseudogene"
+NC_000024.10,8927047,8928004,TTTY31P,plus,100287905,"testis-specific transcript, Y-linked 31, pseudogene"
+NC_000024.10,8970055,8970444,TTTY24P,plus,100287941,"testis-specific transcript, Y-linked 24, pseudogene"
+NC_000024.10,9034110,9040188,OFD1P3Y,plus,386687,OFD1 pseudogene 3 Y-linked
+NC_000024.10,9165228,9168027,CDY3P,minus,286556,chromodomain Y-linked 3 pseudogene
+NC_000024.10,9185599,9185812,USP9YP22,plus,100874383,USP9Y pseudogene 22
+NC_000024.10,9190177,9190587,USP9YP4,minus,387359,USP9Y pseudogene 4
+NC_000024.10,9230926,9231247,ELOCP4,plus,100462873,elongin C pseudogene 4
+NC_000024.10,9264844,9269708,LOC105379264,plus,105379264,uncharacterized LOC105379264
+NC_000024.10,9274397,9282943,LOC105379265,plus,105379265,uncharacterized LOC105379265
+NC_000024.10,9288977,9291228,LOC105379266,plus,105379266,uncharacterized LOC105379266
+NC_000024.10,9292384,9304613,LOC105379267,plus,105379267,uncharacterized LOC105379267
+NC_000024.10,9317061,9322874,RBMY1A3P,minus,286557,"RNA binding motif protein Y-linked family 1 member A3, pseudogene"
+NC_000024.10,9325490,9330587,RBMY1GP,plus,100287769,"RNA binding motif protein Y-linked family 1 member G, pseudogene"
+NC_000024.10,9329880,9334832,TTTY20,minus,252951,"testis-specific transcript, Y-linked 20"
+NC_000024.10,9337464,9340278,TSPY4,plus,728395,testis specific protein Y-linked 4
+NC_000024.10,9349580,9355182,FAM197Y8,minus,105379268,family with sequence similarity 197 Y-linked member 8
+NC_000024.10,9357797,9360593,TSPY8,plus,728403,testis specific protein Y-linked 8
+NC_000024.10,9369857,9375462,FAM197Y7,minus,105379269,family with sequence similarity 197 Y-linked member 7
+NC_000024.10,9378076,9380871,TSPY7P,plus,653288,"testis specific protein Y-linked 7, pseudogene"
+NC_000024.10,9390191,9395808,FAM197Y6,minus,105379270,family with sequence similarity 197 Y-linked member 6
+NC_000024.10,9398421,9401217,TSPY3,plus,728137,testis specific protein Y-linked 3
+NC_000024.10,9458743,9464345,FAM197Y5,minus,100289150,family with sequence similarity 197 Y-linked member 5
+NC_000024.10,9466955,9469749,TSPY1,plus,7258,testis specific protein Y-linked 1
+NC_000024.10,9479053,9484654,FAM197Y4,minus,100289188,family with sequence similarity 197 Y-linked member 4
+NC_000024.10,9487267,9490081,TSPY9,plus,728132,testis specific protein Y-linked 9
+NC_000024.10,9499341,9504941,FAM197Y3,minus,107987341,family with sequence similarity 197 Y-linked member 3
+NC_000024.10,9507550,9510363,TSPY6P,plus,653174,"testis specific protein Y-linked 6, pseudogene"
+NC_000024.10,9519666,9525357,FAM197Y2,minus,252946,family with sequence similarity 197 Y-linked member 2
+NC_000024.10,9527880,9530676,TSPY10,plus,100289087,testis specific protein Y-linked 10
+NC_000024.10,9548062,9550873,TSPY15P,plus,642631,"testis specific protein Y-linked 15, pseudogene"
+NC_000024.10,9610721,9615153,RBMY3AP,minus,64593,"RNA binding motif protein Y-linked family 3 member A, pseudogene"
+NC_000024.10,9624183,9626352,TSPY25P,plus,100874288,"testis specific protein Y-linked 25, pseudogene"
+NC_000024.10,9640249,9640761,TSPY16P,minus,727969,"testis specific protein Y-linked 16, pseudogene"
+NC_000024.10,9691100,9693699,TTTY8,plus,84673,"testis-specific transcript, Y-linked 8"
+NC_000024.10,9706824,9715262,TTTY7B,minus,100101120,"testis-specific transcript, Y-linked 7B"
+NC_000024.10,9717653,9721296,TTTY21,minus,252953,"testis-specific transcript, Y-linked 21"
+NC_000024.10,9736286,9758476,TTTY2,plus,60439,"testis-specific transcript, Y-linked 2"
+NC_000024.10,9753156,9774319,TTTY1,minus,50858,"testis-specific transcript, Y-linked 1"
+NC_000024.10,9794790,9798097,LOC107987342,plus,107987342,uncharacterized LOC107987342
+NC_000024.10,9801153,9813245,TTTY22,plus,252954,"testis-specific transcript, Y-linked 22"
+NC_000024.10,9831418,9835967,RBMY2NP,minus,378956,"RNA binding motif protein Y-linked family 2 member N, pseudogene"
+NC_000024.10,9869621,9870139,TSPY18P,plus,642796,"testis specific protein Y-linked 18, pseudogene"
+NC_000024.10,9905457,9908185,TSPY13P,minus,378001,"testis specific protein Y-linked 13, pseudogene"
+NC_000024.10,9910798,9911962,TTTY23,plus,252955,"testis-specific transcript, Y-linked 23"
+NC_000024.10,9951547,9959843,RBMY2OP,plus,379005,"RNA binding motif protein Y-linked family 2 member O, pseudogene"
+NC_000024.10,10022208,10035324,RBMY2QP,minus,379006,"RNA binding motif protein Y-linked family 2 member Q, pseudogene"
+NC_000024.10,10035018,10038389,TSPY20P,plus,100130848,"testis specific protein Y-linked 20, pseudogene"
+NC_000024.10,10066393,10069196,TSPY5P,minus,379027,"testis specific protein Y-linked 5, pseudogene"
+NC_000024.10,10090410,10090528,RNA5SP518,minus,100873569,"RNA, 5S ribosomal pseudogene 518"
+NC_000024.10,10092875,10092993,RNA5SP519,minus,100873570,"RNA, 5S ribosomal pseudogene 519"
+NC_000024.10,10156183,10156444,MRPL57P10,plus,347587,mitochondrial ribosomal protein L57 pseudogene 10
+NC_000024.10,10171614,10172653,DUX4L31,minus,100887073,double homeobox 4 like 31 (pseudogene)
+NC_000024.10,10173851,10174402,PCMTD1P1,plus,100874520,protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1 pseudogene 1
+NC_000024.10,10190370,10192415,CDC27P2,minus,100130277,cell division cycle 27 pseudogene 2
+NC_000024.10,10193930,10197199,LOC101059962,minus,101059962,serine/threonine-protein phosphatase 1 regulatory subunit 10-like
+NC_000024.10,10197257,10199104,RNA18SP2,plus,359724,"RNA, 18S ribosomal pseudogene 2"
+NC_000024.10,10200155,10200306,RNA5-8SP6,plus,100873336,"RNA, 5.8S ribosomal pseudogene 6"
+NC_000024.10,11085276,11086149,CDRT15P10,minus,100420811,CDRT15 pseudogene 10
+NC_000024.10,11094968,11095487,LOC100419952,minus,100419952,uncharacterized LOC100419952
+NC_000024.10,11107029,11108135,LOC107987335,plus,107987335,uncharacterized LOC107987335
+NC_000024.10,11132454,11133064,MTCO3P37,minus,107436007,MT-CO3 pseudogene 37
+NC_000024.10,11133358,11134415,MTCO1P37,plus,107105273,MT-CO1 pseudogene 37
+NC_000024.10,11153801,11159198,TEKT4P1,minus,727768,tektin 4 pseudogene 1
+NC_000024.10,11167992,11169160,SOWAHCP1,minus,100131984,SOWAHC pseudogene 1
+NC_000024.10,11170731,11172105,LINC00268-2P,minus,100288610,"long intergenic non-protein coding RNA 268-2, pseudogene"
+NC_000024.10,11173324,11173820,ANKRD20A6P,plus,728157,"ankyrin repeat domain 20 family member A6, pseudogene"
+NC_000024.10,11178593,11179239,SNX18P1Y,plus,100418999,"sorting nexin 18 pseudogene 1, Y-linked"
+NC_000024.10,11206640,11214997,LOC105379273,minus,105379273,uncharacterized LOC105379273
+NC_000024.10,11306918,11308191,DUX4L16,plus,728169,double homeobox 4 like 16 (pseudogene)
+NC_000024.10,11314921,11316345,DUX4L17,plus,643001,double homeobox 4 like 17 (pseudogene)
+NC_000024.10,11321558,11322983,DUX4L18,plus,100132421,double homeobox 4 like 18 (pseudogene)
+NC_000024.10,11332331,11333853,DUX4L19,plus,643034,double homeobox 4 like 19 (pseudogene)
+NC_000024.10,11336403,11337109,PABPC1P5,plus,100131374,poly(A) binding protein cytoplasmic 1 pseudogene 5
+NC_000024.10,11340390,11385695,SLC9B1P1,minus,100128190,solute carrier family 9 member B1 pseudogene 1
+NC_000024.10,11395674,11397516,ACTR3BP1,plus,643050,ACTR3B pseudogene 1
+NC_000024.10,11412547,11418872,CHEK2P1,plus,100133012,CHEK2 pseudogene 1
+NC_000024.10,11445418,11445564,MTND1P12,minus,106480744,MT-ND1 pseudogene 12
+NC_000024.10,11473762,11474238,IGKV1ORY-1,minus,439957,immunoglobulin kappa variable 1/ORY-1 (pseudogene)
+NC_000024.10,11781056,11782527,RCC2P1,minus,650983,regulator of chromosome condensation 2 pseudogene 1
+NC_000024.10,11922285,11923778,ASS1P6,minus,451,argininosuccinate synthetase 1 pseudogene 6
+NC_000024.10,11957177,11988583,MXRA5Y,plus,286544,matrix remodeling associated 5 Y-linked (pseudogene)
+NC_000024.10,12244745,12252124,RPS24P1,plus,23756,ribosomal protein S24 pseudogene 1
+NC_000024.10,12252200,12258035,ARSFP1,minus,23757,arylsulfatase F pseudogene 1
+NC_000024.10,12273493,12273762,RN7SL702P,plus,106481114,"RNA, 7SL, cytoplasmic 702, pseudogene"
+NC_000024.10,12321577,12323257,FAM8A4P,plus,386726,"family with sequence similarity 8 member A4, pseudogene"
+NC_000024.10,12332071,12347692,ARSLP1,plus,10033,arylsulfatase L pseudogene 1
+NC_000024.10,12354037,12379774,ARSDP1,plus,10034,arylsulfatase D pseudogene 1
+NC_000024.10,12354778,12363712,LOC107987343,minus,107987343,uncharacterized LOC107987343
+NC_000024.10,12406116,12421590,GYG2P1,minus,352887,glycogenin 2 pseudogene 1
+NC_000024.10,12438605,12507609,LOC124905301,minus,124905301,glycoprotein Xg-like
+NC_000024.10,12484479,12507348,XGY1,minus,7500,"XG pseudogene, Y-linked 1"
+NC_000024.10,12541058,12543220,SHROOM2P1,plus,10031,shroom family member 2 pseudogene 1
+NC_000024.10,12618985,12634401,MED14P1,minus,359791,mediator complex subunit 14 pseudogene 1
+NC_000024.10,12661315,12663492,LOC112268311,minus,112268311,uncharacterized LOC112268311
+NC_000024.10,12662352,12692233,TTTY15,plus,64595,"testis-specific transcript, Y-linked 15"
+NC_000024.10,12701231,12860839,USP9Y,plus,8287,ubiquitin specific peptidase 9 Y-linked
+NC_000024.10,12801341,12804258,CDY4P,minus,386729,chromodomain Y-linked 4 pseudogene
+NC_000024.10,12903999,12920478,DDX3Y,plus,8653,DEAD-box helicase 3 Y-linked
+NC_000024.10,12929856,12948185,CASKP1,minus,10029,calcium/calmodulin dependent serine protein kinase pseudogene 1
+NC_000024.10,13094804,13097725,SFPQP1,plus,23758,splicing factor proline and glutamine rich pseudogene 1
+NC_000024.10,13111325,13125641,LOC112268312,plus,112268312,uncharacterized LOC112268312
+NC_000024.10,13151542,13162217,TAB3P1,minus,643199,TGF-beta activated kinase 1/MAP3K7 binding protein 3 pseudogene 1
+NC_000024.10,13230855,13231472,DPPA2P1,plus,100421137,developmental pluripotency associated 2 pseudogene 1
+NC_000024.10,13233895,13480670,UTY,minus,7404,"ubiquitously transcribed tetratricopeptide repeat containing, Y-linked"
+NC_000024.10,13286561,13287546,PSMA6P1,plus,64596,proteasome subunit alpha 6 pseudogene 1
+NC_000024.10,13479177,13479266,MIR12120,plus,113219468,microRNA 12120
+NC_000024.10,13703899,13706024,TMSB4Y,plus,9087,thymosin beta 4 Y-linked
+NC_000024.10,13718062,13718837,PSIP1P2,minus,360022,PSIP1 pseudogene 2
+NC_000024.10,13751706,13920022,ANOS2P,plus,3734,"anosmin 2, pseudogene"
+NC_000024.10,13985772,13986473,VCY,minus,9084,variable charge Y-linked
+NC_000024.10,14056227,14056958,VCY1B,plus,353513,variable charge Y-linked 1B
+NC_000024.10,14081075,14081461,PNPLA4P1,plus,100462832,patatin like phospholipase domain containing 4 pseudogene 1
+NC_000024.10,14100967,14101721,LOC100379236,minus,100379236,patatin-like phospholipase domain containing 4 pseudogene 1
+NC_000024.10,14522616,14845654,NLGN4Y,plus,22829,neuroligin 4 Y-linked
+NC_000024.10,14639057,14640149,AGKP1,plus,359793,AGK pseudogene 1
+NC_000024.10,14793642,14804033,NLGN4Y-AS1,minus,100874056,NLGN4Y antisense RNA 1
+NC_000024.10,14907896,14908068,MED13P1,plus,100499481,mediator complex subunit 13 pseudogene 1
+NC_000024.10,14940689,14941749,CYCSP46,minus,286550,CYCS pseudogene 46
+NC_000024.10,15247106,15365135,LOC107987355,minus,107987355,uncharacterized LOC107987355
+NC_000024.10,15373504,15375458,PUDPP1,minus,327658,pseudouridine 5'-phosphatase pseudogene 1
+NC_000024.10,15547218,15566909,STSP1,plus,6803,steroid sulfatase (microsomal) pseudogene 1
+NC_000024.10,16138248,16138379,LOC124900508,minus,124900508,small nucleolar RNA SNORA20
+NC_000024.10,16248935,16249041,RNU6-109P,plus,106481211,"RNA, U6 small nuclear 109, pseudogene"
+NC_000024.10,16336283,16336389,RNU6-184P,minus,106479648,"RNA, U6 small nuclear 184, pseudogene"
+NC_000024.10,17184491,17194771,SURF6P1,plus,643470,surfeit 6 pseudogene 1
+NC_000024.10,17464879,17465214,ELOCP35,minus,106480250,elongin C pseudogene 35
+NC_000024.10,17500958,17516742,FAM41AY1,plus,340618,"family with sequence similarity 41 member A, Y-linked 1"
+NC_000024.10,17516596,17519431,TUBB1P2,minus,140004,tubulin beta 1 class VI pseudogene 2
+NC_000024.10,17554144,17563405,LOC105377217,minus,105377217,uncharacterized LOC105377217
+NC_000024.10,17557864,17557976,RNA5SP520,plus,106480771,"RNA, 5S ribosomal pseudogene 520"
+NC_000024.10,17559774,17559889,RNA5SP521,plus,106479018,"RNA, 5S ribosomal pseudogene 521"
+NC_000024.10,17575161,17579452,FAM224B,minus,401629,family with sequence similarity 224 member B
+NC_000024.10,17623863,17624424,CLUHP1,minus,100418708,clustered mitochondria homolog pseudogene 1
+NC_000024.10,17628413,17629792,TAF9P1,plus,360002,TATA-box binding protein associated factor 9 pseudogene 1
+NC_000024.10,17688513,17689313,LOC105377218,minus,105377218,uncharacterized LOC105377218
+NC_000024.10,17692931,17699791,LOC124905302,minus,124905302,uncharacterized LOC124905302
+NC_000024.10,17721197,17723195,CDY5P,plus,378008,chromodomain Y-linked 5 pseudogene
+NC_000024.10,17726652,17727180,ELOCP36,plus,101059905,elongin C pseudogene 36
+NC_000024.10,17729799,17744540,PRYP1,minus,442863,PTPN13 like Y-linked pseudogene 1
+NC_000024.10,17756197,17758298,ACTG1P2,minus,74,actin gamma 1 pseudogene 2
+NC_000024.10,17768980,17770560,XKRY,minus,9082,"XK related, Y-linked, pseudogene"
+NC_000024.10,17782131,17784916,USP9YP23,plus,100500798,USP9Y pseudogene 23
+NC_000024.10,17788215,17789584,USP9YP27,minus,106480716,USP9Y pseudogene 27
+NC_000024.10,17789003,17789162,RNU1-128P,minus,106480191,"RNA, U1 small nuclear 128, pseudogene"
+NC_000024.10,17796185,17800818,TRAPPC2P3,minus,27195,trafficking protein particle complex 2 pseudogene 3
+NC_000024.10,17809808,17823539,OFD1P1Y,plus,378009,OFD1 pseudogene 1 Y-linked
+NC_000024.10,17837201,17837528,ELOCP6,minus,100462867,elongin C pseudogene 6
+NC_000024.10,17878260,17880220,CDY2B,minus,203611,chromodomain Y-linked 2B
+NC_000024.10,17881998,17884134,CDY6P,minus,386730,chromodomain Y-linked 6 pseudogene
+NC_000024.10,17910591,17910787,USP9YP7,plus,100462821,USP9Y pseudogene 7
+NC_000024.10,17914951,17921630,USP9YP6,minus,100462820,USP9Y pseudogene 6
+NC_000024.10,17951268,17953564,CDY7P,plus,386731,chromodomain Y-linked 7 pseudogene
+NC_000024.10,17984249,17993387,USP9YP34,plus,387361,USP9Y pseudogene 34
+NC_000024.10,17995101,17997352,USP9YP32,minus,106480718,USP9Y pseudogene 32
+NC_000024.10,18022299,18023917,CDY8P,plus,386732,chromodomain Y-linked 8 pseudogene
+NC_000024.10,18025787,18027746,CDY2A,plus,9426,chromodomain Y-linked 2A
+NC_000024.10,18068483,18068810,ELOCP12,plus,100462874,elongin C pseudogene 12
+NC_000024.10,18082449,18096202,OFD1P2Y,minus,378010,OFD1 pseudogene 2 Y-linked
+NC_000024.10,18105192,18109825,TRAPPC2P8,plus,414751,trafficking protein particle complex 2 pseudogene 8
+NC_000024.10,18116427,18117795,USP9YP15,plus,106480713,USP9Y pseudogene 15
+NC_000024.10,18116848,18117007,RNU1-95P,plus,106481621,"RNA, U1 small nuclear 95, pseudogene"
+NC_000024.10,18121095,18123899,USP9YP16,minus,106478927,USP9Y pseudogene 16
+NC_000024.10,18135449,18137029,XKRYP7,plus,353515,"XK related, Y-linked pseudogene 7"
+NC_000024.10,18147810,18149718,ACTG1P11,plus,414754,actin gamma 1 pseudogene 11
+NC_000024.10,18161364,18177051,PRYP2,plus,442864,PTPN13 like Y-linked pseudogene 2
+NC_000024.10,18177944,18179519,ELOCP26,minus,118097967,elongin C pseudogene 26
+NC_000024.10,18182817,18184815,CDY9P,minus,378011,chromodomain Y-linked 9 pseudogene
+NC_000024.10,18206223,18213083,LOC124905303,plus,124905303,uncharacterized LOC124905303
+NC_000024.10,18216701,18217501,LOC105377219,plus,105377219,uncharacterized LOC105377219
+NC_000024.10,18276280,18277495,TAF9P2,minus,360003,TATA-box binding protein associated factor 9 pseudogene 2
+NC_000024.10,18281584,18282145,CLUHP2,plus,100418709,clustered mitochondria homolog pseudogene 2
+NC_000024.10,18326533,18330827,FAM224A,plus,401630,family with sequence similarity 224 member A
+NC_000024.10,18346023,18346338,RNA5SP522,minus,106479019,"RNA, 5S ribosomal pseudogene 522"
+NC_000024.10,18347173,18351866,LOC105377220,plus,105377220,uncharacterized LOC105377220
+NC_000024.10,18347935,18348247,RNA5SP523,minus,106480772,"RNA, 5S ribosomal pseudogene 523"
+NC_000024.10,18386581,18389416,TUBB1P1,plus,349448,tubulin beta 1 class VI pseudogene 1
+NC_000024.10,18389270,18405046,FAM41AY2,minus,100302526,"family with sequence similarity 41 member A, Y-linked 2"
+NC_000024.10,18440797,18441125,ELOCP13,plus,100462875,elongin C pseudogene 13
+NC_000024.10,18453176,18470873,OFD1P4Y,minus,386688,OFD1 pseudogene 4 Y-linked
+NC_000024.10,18481087,18487400,USP9YP14,plus,107133502,USP9Y pseudogene 14
+NC_000024.10,18484041,18517866,LOC124905304,plus,124905304,uncharacterized LOC124905304
+NC_000024.10,18490914,18494295,USP9YP5,minus,100421217,USP9Y pseudogene 5
+NC_000024.10,18507812,18509608,XKRYP1,plus,379028,"XK related, Y-linked pseudogene 1"
+NC_000024.10,18529258,18529723,PRYP5,plus,106478933,PTPN13 like Y-linked pseudogene 5
+NC_000024.10,18529643,18588963,HSFY1,plus,86614,heat shock transcription factor Y-linked 1
+NC_000024.10,18532326,18532656,ELOCP7,minus,100462868,elongin C pseudogene 7
+NC_000024.10,18542931,18544141,USP9YP1,plus,387362,USP9Y pseudogene 1
+NC_000024.10,18578225,18578760,GPM6BP1,plus,106480720,glycoprotein M6B pseudogene 1
+NC_000024.10,18581206,18590521,TTTY9B,minus,425057,"testis-specific transcript, Y-linked 9B"
+NC_000024.10,18587410,18629078,OFD1P5Y,minus,386689,OFD1 pseudogene 5 Y-linked
+NC_000024.10,18649646,18654584,RAB9AP4,plus,100288397,"RAB9A, member RAS oncogene family pseudogene 4"
+NC_000024.10,18654055,18656190,TRAPPC2P7,minus,392597,trafficking protein particle complex 2 pseudogene 7
+NC_000024.10,18673727,18738440,OFD1P6Y,plus,386690,OFD1 pseudogene 6 Y-linked
+NC_000024.10,18729882,18739197,TTTY9A,plus,83864,"testis-specific transcript, Y-linked 9A"
+NC_000024.10,18731440,18790764,HSFY2,minus,159119,heat shock transcription factor Y-linked 2
+NC_000024.10,18741643,18742178,GPM6BP2,minus,106480426,glycoprotein M6B pseudogene 2
+NC_000024.10,18776175,18779513,USP9YP2,minus,387363,USP9Y pseudogene 2
+NC_000024.10,18787665,18788326,ELOCP14,plus,100462876,elongin C pseudogene 14
+NC_000024.10,18790609,18791151,PRYP6,minus,106480721,PTPN13 like Y-linked pseudogene 6
+NC_000024.10,18802540,18836398,LOC124905305,minus,124905305,uncharacterized LOC124905305
+NC_000024.10,18810798,18812594,XKRYP2,minus,379029,"XK related, Y-linked pseudogene 2"
+NC_000024.10,18826107,18829488,USP9YP10,plus,100421222,USP9Y pseudogene 10
+NC_000024.10,18833002,18839313,USP9YP28,minus,107080622,USP9Y pseudogene 28
+NC_000024.10,18833729,18833890,LOC124905307,minus,124905307,U1 spliceosomal RNA
+NC_000024.10,18848162,18867381,OFD1P7Y,plus,386691,OFD1 pseudogene 7 Y-linked
+NC_000024.10,18872102,18872272,MTCYBP2,plus,100873168,MT-CYB pseudogene 2
+NC_000024.10,18872501,19077547,TTTY14,minus,83869,"testis-specific transcript, Y-linked 14"
+NC_000024.10,18985114,18986363,ZNF839P1,plus,100419733,zinc finger protein 839 pseudogene 1
+NC_000024.10,18990640,18992818,CD24P4,minus,938,CD24 molecule pseudogene 4
+NC_000024.10,19018983,19019087,RNU6-255P,minus,106481258,"RNA, U6 small nuclear 255, pseudogene"
+NC_000024.10,19079856,19088878,LOC124905306,plus,124905306,uncharacterized LOC124905306
+NC_000024.10,19327499,19328765,GAPDHP19,plus,140028,glyceraldehyde 3 phosphate dehydrogenase pseudogene 19
+NC_000024.10,19455431,19503153,BCORP1,minus,286554,BCL6 corepressor pseudogene 1
+NC_000024.10,19481616,19483455,LOC102723934,minus,102723934,BCL-6 corepressor-like
+NC_000024.10,19553899,19567009,LOC105377223,minus,105377223,uncharacterized LOC105377223
+NC_000024.10,19567358,19607170,TXLNGY,plus,246126,"taxilin gamma pseudogene, Y-linked"
+NC_000024.10,19703865,19744726,KDM5D,minus,8284,lysine demethylase 5D
+NC_000024.10,19744756,19759071,LOC105377224,plus,105377224,uncharacterized LOC105377224
+NC_000024.10,19986588,19987873,RCC2P2,minus,100421075,regulator of chromosome condensation 2 pseudogene 2
+NC_000024.10,20001188,20001711,ZNF886P,minus,100419728,"zinc finger protein 886, pseudogene"
+NC_000024.10,20357614,20358416,ZNF884P,minus,100419729,"zinc finger protein 884, pseudogene"
+NC_000024.10,20396168,20396796,ZNF885P,plus,100419734,"zinc finger protein 885, pseudogene"
+NC_000024.10,20465668,20519228,TTTY10,minus,246119,"testis-specific transcript, Y-linked 10"
+NC_000024.10,20569690,20570564,KDM5DP1,minus,359796,lysine demethylase 5D pseudogene 1
+NC_000024.10,20575776,20593154,EIF1AY,plus,9086,eukaryotic translation initiation factor 1A Y-linked
+NC_000024.10,20610114,20612062,FAM8A9P,plus,386727,"family with sequence similarity 8 member A9, pseudogene"
+NC_000024.10,20727255,20742901,TBL1YP1,plus,286555,transducin beta like 1 Y-linked pseudogene 1
+NC_000024.10,20756108,20781032,RPS4Y2,plus,140032,ribosomal protein S4 Y-linked 2
+NC_000024.10,20808776,20843588,HSFY4P,minus,643987,"heat shock transcription factor Y-linked 4, pseudogene"
+NC_000024.10,20861379,20862541,GAPDHP17,plus,360008,glyceraldehyde-3-phosphate dehydrogenase pseudogene 17
+NC_000024.10,20901853,20907612,TMEM167AP1,minus,360028,transmembrane protein 167A pseudogene 1
+NC_000024.10,21130870,21131181,TOMM22P1,plus,100499416,TOMM22 pseudogene 1
+NC_000024.10,21138633,21172974,LOC105377225,plus,105377225,uncharacterized LOC105377225
+NC_000024.10,21221351,21221782,NEFLP1,minus,359795,neurofilament light pseudogene 1
+NC_000024.10,21228137,21253374,LOC107987346,plus,107987346,uncharacterized LOC107987346
+NC_000024.10,21248065,21303010,LOC107987347,minus,107987347,uncharacterized LOC107987347
+NC_000024.10,21311161,21319435,RBMY2SP,plus,379007,"RNA binding motif protein Y-linked family 2 member S, pseudogene"
+NC_000024.10,21381905,21451846,PRORY,minus,100533178,PRORY Y-linked lncRNA
+NC_000024.10,21395148,21401562,RBMY2EP,minus,159125,"RNA binding motif protein Y-linked family 2 member E, pseudogene"
+NC_000024.10,21430324,21437347,RBMY2TP,minus,379008,"RNA binding motif protein Y-linked family 2 member T, pseudogene"
+NC_000024.10,21468129,21470939,TSPY14P,plus,378013,"testis specific protein Y-linked 14, pseudogene"
+NC_000024.10,21493419,21502337,RBMY1HP,plus,5944,"RNA binding motif protein Y-linked family 1 member H, pseudogene"
+NC_000024.10,21511338,21527216,RBMY1B,plus,378948,RNA binding motif protein Y-linked family 1 member B
+NC_000024.10,21534879,21559683,RBMY1A1,plus,5940,RNA binding motif protein Y-linked family 1 member A1
+NC_000024.10,21583600,21594666,TTTY13,minus,83868,"testis-specific transcript, Y-linked 13"
+NC_000024.10,21631579,21632115,ELOCP5,minus,100288493,elongin C pseudogene 5
+NC_000024.10,21636601,21639468,CDY10P,minus,140043,chromodomain Y-linked 10 pseudogene
+NC_000024.10,21661826,21674111,USP9YP3,plus,387364,USP9Y pseudogene 3
+NC_000024.10,21677146,21679323,USP9YP8,minus,100421219,USP9Y pseudogene 8
+NC_000024.10,21696145,21699173,CDY11P,plus,378014,chromodomain protein Y-linked 11 pseudogene
+NC_000024.10,21809153,21823807,LOC105377236,minus,105377236,uncharacterized LOC105377236
+NC_000024.10,21811387,21818212,OFD1P16Y,minus,442485,OFD1 pseudogene 16 Y-linked
+NC_000024.10,21836270,21839158,LOC105377237,plus,105377237,uncharacterized LOC105377237
+NC_000024.10,21868431,21900746,RBMY1D,minus,378949,RNA binding motif protein Y-linked family 1 member D
+NC_000024.10,21902177,21918032,RBMY1E,minus,378950,RNA binding motif protein Y-linked family 1 member E
+NC_000024.10,21927115,21939239,RBMY2AP,minus,5945,"RNA binding motif protein Y-linked family 2 member A, pseudogene"
+NC_000024.10,21972211,22005684,OFD1P8Y,plus,386692,OFD1 pseudogene 8 Y-linked
+NC_000024.10,22028320,22030347,LOC107987356,plus,107987356,uncharacterized LOC107987356
+NC_000024.10,22048552,22049415,HSFY5P,minus,106478934,"heat shock transcription factor Y-linked 5, pseudogene"
+NC_000024.10,22049755,22058113,USP9YP17,minus,106480714,USP9Y pseudogene 17
+NC_000024.10,22064597,22065805,CDY12P,plus,386734,chromodomain Y-linked 12 pseudogene
+NC_000024.10,22068820,22069151,ELOCP15,plus,100462877,elongin C pseudogene 15
+NC_000024.10,22071756,22096007,PRY2,minus,442862,PTPN13 like Y-linked 2
+NC_000024.10,22101692,22147540,LOC102725532,minus,102725532,uncharacterized LOC102725532
+NC_000024.10,22144987,22146834,TTTY6B,plus,441543,"testis-specific transcript, Y-linked 6B"
+NC_000024.10,22162885,22182923,RBMY1F,minus,159163,RNA binding motif protein Y-linked family 1 member F
+NC_000024.10,22183850,22186021,TSPY23P,plus,100286964,"testis specific protein Y-linked 23, pseudogene"
+NC_000024.10,22198429,22199039,RBMY2UP,plus,379009,"RNA binding motif protein Y-linked family 2 member U, pseudogene"
+NC_000024.10,22209331,22216580,RBMY1KP,plus,100874497,"RNA binding motif protein Y-linked family 1 member K, pseudogene"
+NC_000024.10,22296798,22298876,TTTY5,minus,83863,"testis-specific transcript, Y-linked 5"
+NC_000024.10,22304428,22307893,TSPY22P,minus,100286996,"testis specific protein Y-linked 22, pseudogene"
+NC_000024.10,22308859,22316205,RBMY2FP,plus,159162,"RNA binding motif protein Y-linked family 2 member F, pseudogene"
+NC_000024.10,22316678,22320384,LOC100652931,plus,100652931,RNA binding motif protein Y-linked family 1 member A1 pseudogene
+NC_000024.10,22331532,22332002,TTTY25P,plus,100287026,"testis-specific transcript, Y-linked 25, pseudogene"
+NC_000024.10,22381566,22388096,RBMY2VP,plus,379010,"RNA binding motif protein Y-linked family 2 member V, pseudogene"
+NC_000024.10,22394574,22402820,TSPY21P,minus,100287055,"testis specific protein Y-linked 21, pseudogene"
+NC_000024.10,22403410,22424870,RBMY1J,plus,378951,RNA binding motif protein Y-linked family 1 member J
+NC_000024.10,22438940,22484714,LOC101929148,plus,101929148,uncharacterized LOC101929148
+NC_000024.10,22439593,22441459,TTTY6,minus,84672,"testis-specific transcript, Y-linked 6"
+NC_000024.10,22490397,22514637,PRY,plus,9081,PTPN13 like Y-linked
+NC_000024.10,22517242,22517573,ELOCP8,minus,100462869,elongin C pseudogene 8
+NC_000024.10,22520588,22521796,CDY13P,minus,386735,chromodomain Y-linked 13 pseudogene
+NC_000024.10,22528281,22536639,USP9YP24,plus,106478928,USP9Y pseudogene 24
+NC_000024.10,22537047,22537849,HSFY7P,plus,106478935,"heat shock transcription factor Y-linked 7, pseudogene"
+NC_000024.10,22556048,22558045,LOC107987357,minus,107987357,uncharacterized LOC107987357
+NC_000024.10,22580707,22614183,OFD1P9Y,minus,386693,OFD1 pseudogene 9 Y-linked
+NC_000024.10,22649245,22658879,RBMY2BP,plus,375850,"RNA binding motif protein Y-linked family 2 member B, pseudogene"
+NC_000024.10,22726008,22729254,FAM8A10P,plus,386728,"family with sequence similarity 8 member A10, pseudogene"
+NC_000024.10,22762324,22769890,RBMY2WP,minus,379011,"RNA binding motif protein Y-linked family 2 member W, pseudogene"
+NC_000024.10,22786214,22797451,LOC107987348,plus,107987348,uncharacterized LOC107987348
+NC_000024.10,22851584,22852715,TTTY17A,plus,252949,"testis-specific transcript, Y-linked 17A"
+NC_000024.10,22860980,22861844,TRIM60P4Y,minus,100420367,"tripartite motif containing 60 pseudogene 4, Y-linked"
+NC_000024.10,22867141,22867754,ZNF736P11Y,minus,100419730,"zinc finger protein 736 pseudogene 11, Y-linked"
+NC_000024.10,22936455,22973284,TTTY4,plus,114761,"testis-specific transcript, Y-linked 4"
+NC_000024.10,22984263,23005465,BPY2,plus,9083,basic charge Y-linked 2
+NC_000024.10,23025594,23026660,TRIM60P8Y,plus,100420373,"tripartite motif containing 60 pseudogene 8, Y-linked"
+NC_000024.10,23050035,23051168,ZNF736P3Y,plus,246123,"zinc finger protein 736 pseudogene 3, Y-linked"
+NC_000024.10,23058036,23059183,TRIM60P9Y,plus,100420374,"tripartite motif containing 60 pseudogene 9, Y-linked"
+NC_000024.10,23106397,23109738,LOC105377238,minus,105377238,uncharacterized LOC105377238
+NC_000024.10,23129355,23199094,DAZ1,minus,1617,deleted in azoospermia 1
+NC_000024.10,23219457,23291356,DAZ2,plus,57055,deleted in azoospermia 2
+NC_000024.10,23310977,23314314,LOC105377239,plus,105377239,uncharacterized LOC105377239
+NC_000024.10,23379382,23392797,PPP1R12BP2,plus,360020,protein phosphatase 1 regulatory subunit 12B pseudogene 2
+NC_000024.10,23423099,23423236,LOC124900506,minus,124900506,small nucleolar RNA SNORA70
+NC_000024.10,23435242,23476743,REREP1Y,plus,105377240,arginine-glutamic acid dipeptide repeats pseudogene 1 Y-linked
+NC_000024.10,23536902,23549031,RBMY2CP,minus,140123,"RNA binding motif protein Y-linked family 2 member C, pseudogene"
+NC_000024.10,23581593,23606249,OFD1P10Y,plus,386694,OFD1 pseudogene 10 Y-linked
+NC_000024.10,23637651,23640775,LOC107987349,plus,107987349,uncharacterized LOC107987349
+NC_000024.10,23657846,23659126,HSFY6P,minus,106480722,"heat shock transcription factor Y-linked 6, pseudogene"
+NC_000024.10,23659466,23667822,USP9YP18,minus,106480424,USP9Y pseudogene 18
+NC_000024.10,23674278,23675485,CDY14P,plus,386736,chromodomain protein Y-linked 14 pseudogene
+NC_000024.10,23678504,23678835,ELOCP16,plus,100462878,elongin C pseudogene 16
+NC_000024.10,23681340,23694681,PRYP3,minus,442865,PTPN13 like Y-linked pseudogene 3
+NC_000024.10,23715687,23717485,XKRYP3,minus,379030,"XK related, Y-linked pseudogene 3"
+NC_000024.10,23734193,23736249,USP9YP25,plus,106480715,USP9Y pseudogene 25
+NC_000024.10,23740258,23746693,USP9YP29,minus,106480425,USP9Y pseudogene 29
+NC_000024.10,23740942,23741105,RNU1-97P,minus,106480182,"RNA, U1 small nuclear 97, pseudogene"
+NC_000024.10,23751188,23751754,RAB9AP1,plus,100287200,"RAB9A, member RAS oncogene family pseudogene 1"
+NC_000024.10,23754870,23765685,TRAPPC2P9,minus,414753,trafficking protein particle complex 2 pseudogene 9
+NC_000024.10,23770823,23798250,OFD1P11Y,plus,386695,OFD1 pseudogene 11 Y-linked
+NC_000024.10,23808821,23809146,ELOCP9,minus,100462870,elongin C pseudogene 9
+NC_000024.10,23854271,23857512,CDY15P,minus,386737,chromodomain Y-linked 15 pseudogene
+NC_000024.10,23861570,23862658,CDY16P,minus,386738,chromodomain Y-linked 16 pseudogene
+NC_000024.10,23916696,23918494,XKRYP4,minus,379031,"XK related, Y-linked pseudogene 4"
+NC_000024.10,23919905,23920123,USP9YP13,plus,100861434,USP9Y pseudogene 13
+NC_000024.10,23936663,23940102,USP9YP11,plus,100421224,USP9Y pseudogene 11
+NC_000024.10,23936727,23941622,TTTY3B,minus,474148,"testis-specific transcript, Y-linked 3B"
+NC_000024.10,23946618,23946771,RNU1-86P,minus,106480666,"RNA, U1 small nuclear 86, pseudogene"
+NC_000024.10,23946965,23947123,USP9YP12,minus,100874382,USP9Y pseudogene 12
+NC_000024.10,23956569,23960215,RAB9AP5,plus,100287234,"RAB9A, member RAS oncogene family pseudogene 5"
+NC_000024.10,23963031,23970797,TRAPPC2P10,minus,414752,trafficking protein particle complex 2 pseudogene 10
+NC_000024.10,23983300,23995181,OFD1P12Y,plus,386696,OFD1 pseudogene 12 Y-linked
+NC_000024.10,24006911,24007237,ELOCP10,minus,100462871,elongin C pseudogene 10
+NC_000024.10,24044620,24048019,CDY1B,minus,253175,chromodomain Y-linked 1B
+NC_000024.10,24049777,24051913,CDY17P,minus,386739,chromodomain Y-linked 17 pseudogene
+NC_000024.10,24077799,24079812,USP9YP35,plus,106480719,USP9Y pseudogene 35
+NC_000024.10,24081704,24090346,USP9YP31,minus,106478930,USP9Y pseudogene 31
+NC_000024.10,24103786,24107233,CDY18P,plus,386740,chromodomain Y-linked 18 pseudogene
+NC_000024.10,24169911,24172669,GOLGA6L11P,plus,360024,"golgin A6 family like 11, pseudogene"
+NC_000024.10,24177543,24182632,DNM1P24,minus,100216505,dynamin 1 pseudogene 24
+NC_000024.10,24183433,24187230,CSPG4P2Y,minus,84664,CSPG4 pseudogene 2 Y-linked
+NC_000024.10,24186508,24191875,CSPG4P3Y,minus,100287261,CSPG4 pseudogene 3 Y-linked
+NC_000024.10,24205464,24206069,CHRFAM7AP2,minus,359998,CHRFAM7A pseudogene 2
+NC_000024.10,24209967,24214831,GOLGA2P2Y,minus,84559,GOLGA2 pseudogene 2 Y-linked
+NC_000024.10,24210958,24211216,RN7SL818P,minus,106479520,"RNA, 7SL, cytoplasmic 818, pseudogene"
+NC_000024.10,24232826,24238993,UBE2Q2P4Y,minus,100421716,"UBE2Q2 pseudogene 4, Y-linked"
+NC_000024.10,24246282,24247878,DNM1P25,plus,100216506,dynamin 1 pseudogene 25
+NC_000024.10,24248478,24249860,GOLGA6L12P,minus,360025,"golgin A6 family like 12, pseudogene"
+NC_000024.10,24275847,24277367,LINC00265-2P,plus,100287296,"long intergenic non-protein coding RNA 265-2, pseudogene"
+NC_000024.10,24277326,24280818,CICP2,minus,360016,capicua transcriptional repressor pseudogene 2
+NC_000024.10,24278538,24291476,LINC00266-2P,plus,100287785,"long intergenic non-protein coding RNA 266-2, pseudogene"
+NC_000024.10,24283060,24285649,SEPTIN14P22,minus,107126286,septin 14 pseudogene 22
+NC_000024.10,24361936,24362478,RPL41P7,minus,286570,ribosomal protein L41 pseudogene 7
+NC_000024.10,24396077,24403633,RBMY2XP,minus,379012,"RNA binding motif protein Y-linked family 2 member X, pseudogene"
+NC_000024.10,24419963,24433068,LOC107987350,plus,107987350,uncharacterized LOC107987350
+NC_000024.10,24485332,24486463,TTTY17B,plus,474151,"testis-specific transcript, Y-linked 17B"
+NC_000024.10,24494728,24495592,TRIM60P5Y,minus,100420368,"tripartite motif containing 60 pseudogene 5, Y-linked"
+NC_000024.10,24500890,24501503,ZNF736P12Y,minus,100419731,"zinc finger protein 736 pseudogene 12, Y-linked"
+NC_000024.10,24570202,24607025,TTTY4B,plus,474149,"testis-specific transcript, Y-linked 4B"
+NC_000024.10,24618004,24639207,BPY2B,plus,442867,basic charge Y-linked 2B
+NC_000024.10,24659337,24660403,TRIM60P10Y,plus,100420376,"tripartite motif containing 60 pseudogene 10, Y-linked"
+NC_000024.10,24679737,24684855,ZNF736P2Y,plus,392603,"zinc finger protein 736 pseudogene 2, Y-linked"
+NC_000024.10,24691782,24692929,TRIM60P11Y,plus,100420377,"tripartite motif containing 60 pseudogene 11, Y-linked"
+NC_000024.10,24740119,24743460,LOC105377241,minus,105377241,uncharacterized LOC105377241
+NC_000024.10,24763069,24813393,DAZ3,minus,57054,deleted in azoospermia 3
+NC_000024.10,24833820,24907040,DAZ4,plus,57135,deleted in azoospermia 4
+NC_000024.10,24926657,24929994,LOC105377242,plus,105377242,uncharacterized LOC105377242
+NC_000024.10,24977179,24978326,TRIM60P6Y,minus,100420369,"tripartite motif containing 60 pseudogene 6, Y-linked"
+NC_000024.10,24985341,24986449,ZNF736P1Y,minus,442486,"zinc finger protein 736 pseudogene 1, Y-linked"
+NC_000024.10,25009703,25010769,TRIM60P7Y,minus,100420370,"tripartite motif containing 60 pseudogene 7, Y-linked"
+NC_000024.10,25018304,25019312,ZNF736P5Y,minus,106480711,"zinc finger protein 736 pseudogene 5, Y-linked"
+NC_000024.10,25030901,25052104,BPY2C,minus,442868,basic charge Y-linked 2C
+NC_000024.10,25063083,25099892,TTTY4C,minus,474150,"testis-specific transcript, Y-linked 4C"
+NC_000024.10,25169209,25170193,ZNF736P4Y,plus,100419735,"zinc finger protein 736 pseudogene 4, Y-linked"
+NC_000024.10,25174511,25175386,TRIM60P12Y,plus,100420378,"tripartite motif containing 60 pseudogene 12, Y-linked"
+NC_000024.10,25183643,25184773,TTTY17C,minus,474152,"testis-specific transcript, Y-linked 17C"
+NC_000024.10,25266480,25274045,RBMY2YP,plus,379024,"RNA binding motif protein Y-linked family 2 member Y, pseudogene"
+NC_000024.10,25307660,25308202,RPL41P6,plus,286568,ribosomal protein L41 pseudogene 6
+NC_000024.10,25378300,25394719,SEPTIN14P23,minus,107126290,septin 14 pseudogene 23
+NC_000024.10,25389329,25392822,CICP1,plus,360017,capicua transcriptional repressor pseudogene 1
+NC_000024.10,25392853,25393852,LINC00265-3P,minus,100287470,"long intergenic non-protein coding RNA 265-3, pseudogene"
+NC_000024.10,25420283,25421665,GOLGA6L13P,plus,360026,"golgin A6 family like 13, pseudogene"
+NC_000024.10,25421953,25423846,DNM1P27,minus,100216514,dynamin 1 pseudogene 27
+NC_000024.10,25431147,25437315,UBE2Q2P5Y,plus,100421717,"UBE2Q2 pseudogene 5, Y-linked"
+NC_000024.10,25455311,25460175,GOLGA2P3Y,plus,401634,GOLGA2 pseudogene 3 Y-linked
+NC_000024.10,25458926,25459184,RN7SL725P,plus,106481120,"RNA, 7SL, cytoplasmic 725, pseudogene"
+NC_000024.10,25464069,25464674,CHRFAM7AP1,plus,359999,CHRFAM7A pseudogene 1
+NC_000024.10,25478264,25483631,CSPG4P4Y,plus,100287502,CSPG4 pseudogene 4 Y-linked
+NC_000024.10,25482908,25486705,CSPG4P1Y,plus,114758,CSPG4 pseudogene 1 Y-linked
+NC_000024.10,25486528,25487227,DNM1P48,plus,100418739,dynamin 1 pseudogene 48
+NC_000024.10,25487507,25492463,DNM1P26,plus,100216507,dynamin 1 pseudogene 26
+NC_000024.10,25492674,25495599,GOLGA6L14P,minus,360027,"golgin A6 family like 14, pseudogene"
+NC_000024.10,25497476,25500233,GOLGA6L16P,minus,100287845,"golgin A6 family like 16, pseudogene"
+NC_000024.10,25562907,25566354,CDY19P,minus,386741,chromodomain Y-linked 19 pseudogene
+NC_000024.10,25579790,25588444,USP9YP36,plus,106478932,USP9Y pseudogene 36
+NC_000024.10,25590323,25592345,USP9YP33,minus,106478931,USP9Y pseudogene 33
+NC_000024.10,25618645,25620254,CDY20P,plus,386742,chromodomain Y-linked 20 pseudogene
+NC_000024.10,25622115,25625511,CDY1,plus,9085,chromodomain Y-linked 1
+NC_000024.10,25662900,25663226,ELOCP34,plus,106481671,elongin C pseudogene 34
+NC_000024.10,25674995,25697426,OFD1P13Y,minus,386697,OFD1 pseudogene 13 Y-linked
+NC_000024.10,25699329,25707095,TRAPPC2P5,plus,27193,trafficking protein particle complex 2 pseudogene 5
+NC_000024.10,25709908,25713545,RAB9AP2,minus,100287542,"RAB9A, member RAS oncogene family pseudogene 2"
+NC_000024.10,25722990,25723148,USP9YP30,plus,100874384,USP9Y pseudogene 30
+NC_000024.10,25723342,25723495,RNU1-107P,plus,106480186,"RNA, U1 small nuclear 107, pseudogene"
+NC_000024.10,25728490,25733388,TTTY3,plus,114760,"testis-specific transcript, Y-linked 3"
+NC_000024.10,25730010,25733452,USP9YP9,minus,100421220,USP9Y pseudogene 9
+NC_000024.10,25748860,25749988,USP9YP19,minus,100500797,USP9Y pseudogene 19
+NC_000024.10,25751617,25753415,XKRYP5,plus,379032,"XK related, Y-linked pseudogene 5"
+NC_000024.10,25807304,25808634,CDY21P,plus,386743,chromodomain Y-linked 21 pseudogene
+NC_000024.10,25812592,25815833,CDY22P,plus,386744,chromodomain Y-linked 22 pseudogene
+NC_000024.10,25860943,25861268,ELOCP17,plus,100462879,elongin C pseudogene 17
+NC_000024.10,25872004,25886448,OFD1P14Y,minus,386698,OFD1 pseudogene 14 Y-linked
+NC_000024.10,25897207,25897581,OFD1P18Y,minus,10751,OFD1 pseudogene 18 Y-linked
+NC_000024.10,25904397,25915212,TRAPPC2P4,plus,27194,trafficking protein particle complex 2 pseudogene 4
+NC_000024.10,25918323,25918943,RAB9AP3,minus,100287577,"RAB9A, member RAS oncogene family pseudogene 3"
+NC_000024.10,25923388,25929826,USP9YP20,plus,106480717,USP9Y pseudogene 20
+NC_000024.10,25928979,25929142,RNU1-40P,plus,106480158,"RNA, U1 small nuclear 40, pseudogene"
+NC_000024.10,25933833,25935881,USP9YP21,minus,106480355,USP9Y pseudogene 21
+NC_000024.10,25952590,25954387,XKRYP6,plus,379033,"XK related, Y-linked pseudogene 6"
+NC_000024.10,25975395,25988736,PRYP4,plus,442866,PTPN13 like Y-linked pseudogene 4
+NC_000024.10,25991241,25991572,ELOCP11,minus,100462872,elongin C pseudogene 11
+NC_000024.10,25994591,25995798,CDY23P,minus,386745,chromodomain Y-linked 23 pseudogene
+NC_000024.10,26002254,26008856,USP9YP26,plus,106478929,USP9Y pseudogene 26
+NC_000024.10,26011435,26012237,HSFY8P,plus,106480723,"heat shock transcription factor Y-linked 8, pseudogene"
+NC_000024.10,26029303,26032427,LOC107987352,minus,107987352,uncharacterized LOC107987352
+NC_000024.10,26069765,26088595,OFD1P15Y,minus,386699,OFD1 pseudogene 15 Y-linked
+NC_000024.10,26121585,26133714,RBMY2DP,plus,347598,"RNA binding motif protein Y-linked family 2 member D, pseudogene"
+NC_000024.10,26193868,26235374,REREP2Y,minus,105377243,arginine-glutamic acid dipeptide repeats pseudogene 2 Y-linked
+NC_000024.10,26247384,26247521,LOC124900507,plus,124900507,small nucleolar RNA SNORA70
+NC_000024.10,26277823,26348678,PPP1R12BP1,minus,360021,protein phosphatase 1 regulatory subunit 12B pseudogene 1
+NC_000024.10,26360989,26361092,RNU6-1314P,plus,106481595,"RNA, U6 small nuclear 1314, pseudogene"
+NC_000024.10,26400954,26401230,CYCSP48,plus,360188,CYCS pseudogene 48
+NC_000024.10,26401148,26409142,LOC105377244,minus,105377244,uncharacterized LOC105377244
+NC_000024.10,26409387,26414931,ANKRD36P1,plus,100132420,ankyrin repeat domain 36 pseudogene 1
+NC_000024.10,26541406,26541525,LOC124905308,plus,124905308,uncharacterized LOC124905308
+NC_000024.10,26549359,26550364,CYCSP49,plus,360009,CYCS pseudogene 49
+NC_000024.10,26563992,26579868,TPTE2P4,plus,286573,TPTE2 pseudogene 4
+NC_000024.10,26586445,26587563,SLC25A15P1,minus,100422624,solute carrier family 25 member 15 pseudogene 1
+NC_000024.10,26594668,26634655,PARP4P1,minus,347613,poly(ADP-ribose) polymerase family member 4 pseudogene 1
+NC_000024.10,26626323,26627368,CCNQP2,minus,100421487,CCNQ pseudogene 2
+NC_000024.10,56855243,56856370,CTBP2P1,plus,352905,CTBP2 pseudogene 1
+NC_000024.10,56923423,56968979,SPRY3,plus,10251,sprouty RTK signaling antagonist 3
+NC_000024.10,57014616,57016347,AMD1P2,minus,263,adenosylmethionine decarboxylase 1 pseudogene 2
+NC_000024.10,57062156,57062405,DPH3P2,plus,106478926,diphthamide biosynthesis 3 pseudogene 2
+NC_000024.10,57067865,57130289,VAMP7,plus,6845,vesicle associated membrane protein 7
+NC_000024.10,57147890,57147965,LOC124905309,minus,124905309,uncharacterized LOC124905309
+NC_000024.10,57165512,57165845,ELOCP24,minus,100287692,elongin C pseudogene 24
+NC_000024.10,57171874,57172771,TRPC6P1,minus,644218,TRPC6 pseudogene 1
+NC_000024.10,57184072,57197869,IL9R,plus,3581,interleukin 9 receptor
+NC_000024.10,57201084,57203350,WASIR1,minus,100128260,WASH and IL9R antisense RNA 1
+NC_000024.10,57208178,57212190,WASH6P,plus,653440,"WASP family homolog 6, pseudogene"
+NC_000024.10,57212178,57214703,DDX11L16,minus,727856,DEAD/H-box helicase 11 like 16 (pseudogene)
