@@ -1,5 +1,3 @@
-"NCBI RefSeq Annotation GCF_000001405.40-RS_2023_03"
-Accession,Start,Stop,Gene symbol,Strand,NCBI Gene ID,Name
 NC_000024.10,275294,276997,LOC124905300,minus,124905300,vegetative cell wall protein gp1-like
 NC_000024.10,276356,303356,PLCXD1,plus,55344,phosphatidylinositol specific phospholipase C X domain containing 1
 NC_000024.10,304759,318796,GTPBP6,minus,8225,GTP binding protein 6 (putative)
